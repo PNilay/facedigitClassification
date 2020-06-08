@@ -8,3 +8,12 @@ The Perceptron is a single layer neural network, modern deep neural networks are
 
 * Naive Bayes Classifier  
 Naive Bayes classier algorithm is based on probabilistic classifiers. This algorithms uses probabilities determined from training data. It also uses Bayes therom with naive assumptions between the features.
+
+# Usage
+The program can be run by using following commands in terminal:
+```
+javac main.java
+java main
+```
+These command will allows user to choose one of the options from following menu:
+![GitHub Logo](/images/logo.png)
