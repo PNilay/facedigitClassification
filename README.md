@@ -15,5 +15,5 @@ The program can be run by using following commands in terminal:
 javac main.java
 java main
 ```
-These command will allows user to choose one of the options from following menu:
-![GitHub Logo](/images/logo.png)
+These command will allows user to choose one of the options from following menu:  
+![Main Menu](/Images/menu.PNG)
