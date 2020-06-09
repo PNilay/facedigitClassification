@@ -16,4 +16,4 @@ javac main.java
 java main
 ```
 These command will allows user to choose one of the options from following menu:  
-![Main Menu](/Images/menu.PNG)
+<img src="/Images/menu.PNG" width="650">
