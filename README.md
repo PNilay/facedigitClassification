@@ -4,7 +4,7 @@ https://inst.eecs.berkeley.edu/~cs188/sp11/projects/classification/classificatio
 
 This project implemented two classification algorithm for detecting faces and classifying digits:
 * Perceptron  
-The Perceptron is a single layer neural network, modern deep neural networks are nothing but perceptron stacked on top of each other. Perceptron is a linear classifer,which makes predictions about image based on a linear decision function combining a set of weights with the feature vector.
+The Perceptron is a single layer neural network and a linear classifier. It makes predictions about image based on a linear decision function which combine a set of weights with the feature vector. Modern deep neural networks are nothing but perceptron stacked on top of each other.
 
 * Naive Bayes Classifier  
 Naive Bayes classier algorithm is based on probabilistic classifiers. This algorithms uses probabilities determined from training data. It also uses Bayes therom with naive assumptions between the features.
